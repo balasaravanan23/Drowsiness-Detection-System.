@@ -8,6 +8,4 @@ This project detects driver drowsiness in real-time using:
 - **Eye Aspect Ratio (EAR)** for geometric validation
 - An alarm sound when drowsiness is detected
 
-## 📌 How to Run
 
-1. Install dependencies:
